@@ -92,11 +92,11 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img: 'linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%)'
+footer_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 
 # Website Background
 # Can set it to color or image url
-background:
+background: /img/bg.jpg
 
 cover:
   # Disable the cover or not
