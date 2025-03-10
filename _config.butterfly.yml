@@ -57,10 +57,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: /img/logo.ico
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/tx.jpg
   effect: false
 
 # Disable all banner images
