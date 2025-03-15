@@ -60,7 +60,7 @@ social:
 favicon: /img/logo.ico
 
 avatar:
-  img: /img/tx.jpg
+  img: https://upld.zone.id/uploads/qqi7m3iq/tx2.webp
   effect: false
 
 # Disable all banner images
@@ -96,7 +96,7 @@ footer_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 
 # Website Background
 # Can set it to color or image url
-background: /img/bg.jpg
+background: https://upld.zone.id/uploads/qqi7m3iq/bg.webp
 
 cover:
   # Disable the cover or not
